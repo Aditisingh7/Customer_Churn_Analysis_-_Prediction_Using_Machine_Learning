@@ -4,4 +4,6 @@ We developed a prediction model that predicts customer churn, providing results 
 
 Link: https://public.tableau.com/shared/STGQWYYS5?:display_count=n&:origin=viz_share_link
 
+Deployment site: http://43.204.237.12:9000
+
 
